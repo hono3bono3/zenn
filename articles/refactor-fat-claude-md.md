@@ -6,7 +6,7 @@ topics: [Claude]
 published: false
 ---
 
-夏なのでCLAUDE.mdのダイエットについてまとめました。
+夏なのでCLAUDE.mdのダイエット方法についてまとめました。
 
 ## CLAUDE.mdとは何か
 
